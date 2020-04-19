@@ -45,7 +45,7 @@ hr {
 
 .middle-container {
   margin: 100px;
-  font-weight: normal;
+  font-weight: bolder;
 }
 
 .bottom-container {
@@ -120,7 +120,7 @@ hr {
 }
 
 .social {
-  font-weight: normal;
+  font-weight:bolder;
   margin-top: 50PX;
 }
 
